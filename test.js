@@ -46,5 +46,3 @@ const func = (diccionario, palabra) => {
 }
 
 console.log(func(['a', 'aa', 'aaa'], 'aaabaa'));
-// console.log(func(['a', 'aa', 'aaa'], 'caabaa'));
-// console.log(func(['a', 'aa', 'aaa'], 'aaccaa'));
